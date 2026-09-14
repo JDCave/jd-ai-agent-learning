@@ -1,0 +1,3 @@
+[submodule "hello-agents"]
+	path = hello-agents
+	url = git@github.com:datawhalechina/hello-agents.git
